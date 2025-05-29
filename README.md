@@ -1,15 +1,12 @@
 # Hi there, I'm Talitha Agus Shakira 👋
 
 Welcome to my GitHub profile!  
-I'm passionate about learning and building things with code. Currently exploring new technologies and sharpening my skills across various programming languages.
-
----
 
 ### 💡 About Me
 
-I have a strong interest in **data analytics** and **data science**.  
-I enjoy exploring data to support decision-making and improve strategies.  
-While I’m still developing my expertise, I’m eager to apply what I’ve learned and grow through hands-on experience in a collaborative team.
+I have a strong interest in **data science** and **machine learning / AI engineering**.  
+I enjoy working with data to support decision-making, build intelligent systems, and improve strategies.  
+While I’m still developing my expertise, I’m eager to apply what I’ve learned—especially in ML/AI projects—and grow through hands-on experience in a collaborative team environment.
 
 ---
 
@@ -25,7 +22,8 @@ While I’m still developing my expertise, I’m eager to apply what I’ve lear
 
 **Frameworks & Tools**  
 - Node.js  
-- Express  
+- Express
+- TensorFlow  
 
 ---
 
