@@ -1,4 +1,4 @@
-# Hi there, I'm Talitha Agus Shakira 👋
+# Hi there, I'm Talitha Shakira 👋
 
 Welcome to my GitHub profile!  
 
